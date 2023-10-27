@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/xmen/static/css/main.b3eea4e2.css",
+    "main.js": "/xmen/static/js/main.e54d2c73.js",
+    "static/js/787.2bc47801.chunk.js": "/xmen/static/js/787.2bc47801.chunk.js",
+    "static/media/logo.svg": "/xmen/static/media/logo.b41ee5391767d09b3800516f6873c188.svg",
+    "static/media/card-magneto.png": "/xmen/static/media/card-magneto.2f6cbec7cf5de5af4949.png",
+    "static/media/card-noturno.png": "/xmen/static/media/card-noturno.07a8a73e5a5c73ee902e.png",
+    "static/media/card-vampira.png": "/xmen/static/media/card-vampira.c5e99b1dd07e816464fa.png",
+    "static/media/card-wolverine.png": "/xmen/static/media/card-wolverine.2b5d1aba6ebf695e9639.png",
+    "static/media/card-jean-grey.png": "/xmen/static/media/card-jean-grey.7d16cae852640a02a117.png",
+    "static/media/card-tempestade.png": "/xmen/static/media/card-tempestade.d98d62c99398e9b2843b.png",
+    "static/media/card-lince-negra.png": "/xmen/static/media/card-lince-negra.3c46bd66a764cbe4e0fc.png",
+    "static/media/card-ciclope.png": "/xmen/static/media/card-ciclope.4ee839e568c73e8f4e69.png",
+    "static/media/bg-desktop.jpg": "/xmen/static/media/bg-desktop.5c4e6737fb02db907f81.jpg",
+    "static/media/card-wolverine.jpg": "/xmen/static/media/card-wolverine.6cbe8bd9ce3d6c40f921.jpg",
+    "static/media/card-ciclope.jpg": "/xmen/static/media/card-ciclope.4ebeed11e13537018181.jpg",
+    "static/media/card-vampira.jpg": "/xmen/static/media/card-vampira.15f4faa397b548feee36.jpg",
+    "static/media/card-magneto.jpg": "/xmen/static/media/card-magneto.d98422680b4e6ecedbc8.jpg",
+    "static/media/card-tempestade.jpg": "/xmen/static/media/card-tempestade.4050616e652ffd9a4de3.jpg",
+    "static/media/card-lince-negra.jpg": "/xmen/static/media/card-lince-negra.8fcc2c6bc529957cbba0.jpg",
+    "static/media/card-jean-grey.jpg": "/xmen/static/media/card-jean-grey.17c2d24337e522da147a.jpg",
+    "static/media/card-noturno.jpg": "/xmen/static/media/card-noturno.a68660e0bef8dd557469.jpg",
+    "index.html": "/xmen/index.html",
+    "main.b3eea4e2.css.map": "/xmen/static/css/main.b3eea4e2.css.map",
+    "main.e54d2c73.js.map": "/xmen/static/js/main.e54d2c73.js.map",
+    "787.2bc47801.chunk.js.map": "/xmen/static/js/787.2bc47801.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eea4e2.css",
+    "static/js/main.e54d2c73.js"
+  ]
+}
